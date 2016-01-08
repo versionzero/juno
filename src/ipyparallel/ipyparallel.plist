@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+  <dict>
+    <key>KeepAlive</key>
+    <true/>
+    <key>Label</key>
+    <string>org.github.ipython.ipyparallel</string>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/usr/local/bin/ipyparallel</string>
+      <string>start</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardErrorPath</key>
+    <string>/usr/local/var/ipyparallel/stderr</string>
+    <key>StandardOutPath</key>
+    <string>/usr/local/var/ipyparallel/stdout</string>
+    <key>KeepAlive</key>
+    <true/>
+  </dict>
+</plist>

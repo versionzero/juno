@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Launch jupyter-notebook minus browser
+~/anaconda3/bin/jupyter-notebook --no-browser

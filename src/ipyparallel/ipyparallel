@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Launch ipython cluster
+~/anaconda3/bin/ipcluster start
